@@ -36,7 +36,7 @@ The analysis followed a rigorous data science workflow:
 Below are key visualizations generated during the analysis to identify peak ordering times and customer distribution:
 
 ![Busiest Day of the Week](orders_by_dow_profile_heatmap.png)
-*Example: This bar chart identifies Saturday (0) and Sunday (1) as the peak ordering days.*
+*This heat map showcase that wealthy profficionals, old/retired adults, and young parents are the top customers in terms of orders. the chart also shows that orders peak in the beginning and end of week .*
 
 ## 6. Key Insights & Recommendations
 * **Peak Hours:** Orders peak between 10 AM and 4 PM, while spending remains consistent throughout the day.
