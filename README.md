@@ -35,7 +35,7 @@ The analysis followed a rigorous data science workflow:
 ## 5. Visualizations
 Below are key visualizations generated during the analysis to identify peak ordering times and customer distribution:
 
-![Busiest Day of the Week](visualizations/orders_day_of_week.png)
+![Busiest Day of the Week](orders_by_dow_profile_heatmap.png)
 *Example: This bar chart identifies Saturday (0) and Sunday (1) as the peak ordering days.*
 
 ## 6. Key Insights & Recommendations
