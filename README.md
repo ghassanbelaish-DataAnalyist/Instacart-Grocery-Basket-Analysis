@@ -3,7 +3,7 @@ this repository is to share analysis of Instacart Grocery Basket.
 # Instacart Grocery Basket Analysis (Python)
 
 ## 1. Project Summary
-Instacart, an online grocery store that operates through an app, wants to uncover more information about their sales patterns. As a Data Analyst, I performed an initial exploratory data analysis to derive insights and suggest strategies for better customer segmentation.
+Instacart, an online grocery store that operates through an app, wants to uncover more information about their sales patterns. As a Data Analyst, I performed an initial exploratory data analysis to derive insights and suggest strategies for better customer segmentation as a part of my  CAREER FOUNDRY data analysis program.
 
 **Goal:** To analyze customer purchasing behavior and uncover patterns for a targeted marketing strategy.
 
