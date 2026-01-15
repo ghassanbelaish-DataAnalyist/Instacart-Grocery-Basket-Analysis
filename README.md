@@ -45,4 +45,4 @@ Below are key visualizations generated during the analysis to identify peak orde
 * **Targeting:** Ads should be scheduled during low-volume hours (e.g., late night/early morning) to minimize costs while maintaining visibility.
 
 ## 7. Project Deliverables
-* **[Jupyter Notebooks]:** Contains the full Python scripts for cleaning, merging, and analysis.
+* **[Download the document](11-2025 Instacart Basket Analysis.rar):** Contains the full Python scripts analysis  for cleaning, merging, and analysis.
